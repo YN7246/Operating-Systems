@@ -1,0 +1,3 @@
+The operating system manages the Primary Memory or Main Memory. 
+Main memory is made up of a large array of bytes or words where each byte or word is assigned a certain address. 
+Main memory is a fast storage and it can be accessed directly by the CPU. 
