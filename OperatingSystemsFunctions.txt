@@ -8,3 +8,9 @@ A file system is organized into directories for efficient or easy navigation and
 These directories may contain other directories and other files.  
 It keeps track of where information is stored, user access settings and status of every file and more. 
 These facilities are collectively known as the file system.
+
+Device Management
+An OS manages device communication via their respective drivers. 
+The OS keeps track of all devices connected to system. 
+It also designates a program responsible for every device known as the Input/Output controller. 
+This controller decides which process gets access to a certain device and for how long.
